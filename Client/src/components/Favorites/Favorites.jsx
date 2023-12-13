@@ -31,7 +31,7 @@ const Favorites = (props) => {
         <div className={style.container}>
             <div className={style.selectContainer}>
                 <Link to='/characters'>
-                    <button className={style.button}>⇠ BACK</button>
+                    <button className={style.button}> Go Back</button>
                 </Link>
                 <div>
                     <select className={style.select} onChange={handleOrder}>

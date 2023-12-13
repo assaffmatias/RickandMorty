@@ -27,7 +27,7 @@ const Detail = () => {
         <div className={style.container}>
             <div className={style.divButton}>
                 <Link to={PATHROUTES.CHARACTERS}>
-                    <button className={style.button}>⇠ BACK</button>
+                    <button className={style.button}> Go Back</button>
                 </Link>
             </div>
             <div className={style.container2}>

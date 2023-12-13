@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+
 .container{
     width: 100vw;
     height: 80vh;
@@ -17,6 +21,8 @@
 .h1{
     font-size: 3em;
     color: #292929;
+    /* font-family: 'Creepster', sans-serif; */
+    /* font-family: 'Shadows Into Light', cursive; */
 }
 
 .h2{
